@@ -1,5 +1,7 @@
 # Project: YaPay
-[Project Specification](Projectv1-1.pdf)
 
-# Codebase of the project:
+## Codebase of the project:
 https://github.com/utec-yapay
+
+## Research and Planning:
+https://github.com/utec-yapay/yape-bcp-project-yapay/wiki
